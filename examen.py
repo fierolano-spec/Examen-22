@@ -14,16 +14,15 @@
 nombre = input("nombre: ")
 dinero = input("cual es su saldo disponble: ")
 
-productos = [ "agua, alfajor, tostado"]
+productos = [ "agua, alfajor, tostado, finalizar, "]
 precio = [ "$700, $900, $2200"]
 
 # =========================
 # ETAPA 2 - COMPRAS
 # =========================
 
-# Mostrar el menú y procesar la opción seleccionada.
-# Utilizar las listas para obtener producto y precio.
-
+print (productos)
+produc = input("q producto quiere")
 
 # =========================
 # ETAPA 3 - CICLO PRINCIPAL
